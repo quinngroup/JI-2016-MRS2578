@@ -1,0 +1,15 @@
+I have gitignored the videos because they're so big, but here are the filenames for the repo record:
+
+07052016_Phagocytosis_DMSO.avi
+PMN_MSU_DMSO_08172016.avi
+07072016_Phagocytosis_MRS2578.avi
+07062016_Phagocytosis_MRS2578.avi
+MRS2578_08092016_Phagocytosis.avi
+PMN_MRS2578_08172016.avi
+DMSO_08092016_Phagocytosis.avi
+07072016_Phagocytosis_DMSO.avi
+07052016_Phagocytosis_MRS2578.avi
+07062016_Phagocytosis_DMSO.avi
+Phagocytosis_06302016_dmso.avi
+Phagocytosis_Mrs2578_06302016.avi
+
